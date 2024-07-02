@@ -18,6 +18,10 @@ const quotes = [
     {
         quote: "Someone once told me to never dream. I said NEVER SAY NEVER",
         author: "Justin Bieber"
+    }, 
+    {
+        quote: "Nothing is impossible. The word itself says 'I'm possible!'",
+        author: "Audrey Hepburn"
     }
 ]
 
