@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    background-image: url("images/nature.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    font-family: "Inter", sans-serif;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+.container {
+    background-color: white;
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+h1 {
+     font-weight: 200;
+}
+h2 {
+    text-align: right;
+    padding-right: 20px;
+    font-weight: 800;
+}
+
+.container:hover{
+    background-color: #e5e5e5;
+}
